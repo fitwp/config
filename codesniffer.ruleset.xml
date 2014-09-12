@@ -13,5 +13,9 @@
 		<exclude name="WordPress.VIP.FileSystemWritesDisallow" />
 		<exclude name="WordPress.VIP.RestrictedFunctions.user_meta" />
 		<exclude name="WordPress.VIP.SessionFunctionsUsage" />
+		<exclude name="WordPress.VIP.SessionVariableUsage" />
+		<exclude name="WordPress.VIP.TimezoneChange" />
+		<exclude name="WordPress.VIP.RestrictedFunctions.custom_role" />
+		<exclude name="WordPress.VIP.AdminBarRemoval" />
 	</rule>
 </ruleset>
