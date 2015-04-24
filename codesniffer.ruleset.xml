@@ -18,5 +18,7 @@
 		<exclude name="WordPress.VIP.TimezoneChange" />
 		<exclude name="WordPress.VIP.RestrictedFunctions.custom_role" />
 		<exclude name="WordPress.VIP.AdminBarRemoval" />
+		<exclude name="WordPress.VIP.RestrictedFunctions.get_term_by" />
+		<exclude name="WordPress.VIP.RestrictedFunctions.get_term_link" />
 	</rule>
 </ruleset>
