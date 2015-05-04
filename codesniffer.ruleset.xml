@@ -24,5 +24,6 @@
 		<exclude name="Squiz.ControlStructures.ControlSignature.SpaceAfterCloseBrace" />
 		<exclude name="Squiz.ControlStructures.ControlSignature.SpaceAfterKeyword" />
 		<exclude name="Generic.ControlStructures.InlineControlStructure.NotAllowed" />
+		<exclude name="WordPress.CSRF.NonceVerification.NoNonceVerification" />
 	</rule>
 </ruleset>
